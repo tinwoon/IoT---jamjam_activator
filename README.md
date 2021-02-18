@@ -1,2 +1,2 @@
-# IoT--jamjam-activator
+# IoT jamjam-activator
 for iot_jamjam
